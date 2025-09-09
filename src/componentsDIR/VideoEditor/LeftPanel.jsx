@@ -461,7 +461,7 @@ const LeftPanel = memo(() => {
               Export temporarily disabled: After a surge in traffic from the demo video, server costs became
               unsustainable. The backend implementation with FFMPEG is 100% functional, Check out the backend code on{" "}
               <Link
-                href="https://github.com/Govind783/nextjs-video-editor"
+                href="https://github.com/yuriikulichuk-repo/Video-Editor-next.js-.git"
                 target="_blank"
                 className="inline-flex items-center hover:text-white"
               >
